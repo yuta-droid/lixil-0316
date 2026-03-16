@@ -1,0 +1,7 @@
+{
+  "name": "LIXIL Reform Navigation 03/16向け",
+  "description": "リフォーム検討のステップをサポートするLINEミニアプリ。チェックリストや診断を通じて、最適な住まいづくりを支援します。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
